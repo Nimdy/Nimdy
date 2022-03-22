@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on Crypto Scrapers for content review
 
+- 💬 I am always down to help out on any project or just have nerd conversations
+
 - 🌱 I’m currently learning **M E R N and ML/AI for fun**
 
 - 📫 How to reach me **mrzerobandwidth@gmail.com**
