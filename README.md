@@ -116,6 +116,12 @@
 </div>
 
 ---
+
+<h1 align="center">TROPHIES</h1>
+  <img src="https://i.kym-cdn.com/entries/icons/original/000/010/897/imageso.jpg"/>
+  
+---
+
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ---
