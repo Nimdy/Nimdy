@@ -13,47 +13,57 @@
 
 <h1 align="center">TECHNOLOGY</h1>
 
-<<h1 align="center"> 🔧 Skills & Tools: </h1>
-
-<p align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </kbd>
   <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-  <a href="https://www.google.com/intl/en_in/chrome/">
-    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <br>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
 </p>
 </p>
 
