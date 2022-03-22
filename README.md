@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Crypto Scrapers for content review
 
-- 🌱 I’m currently learning **M E R N**
+- 🌱 I’m currently learning **M E R N and ML/AI for fun**
 
 - 📫 How to reach me **mrzerobandwidth@gmail.com**
 
