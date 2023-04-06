@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zero Bandwidth (Nimdy)</h1>
+<h1 align="center">Hi 👋, I'm Zero Bandwidth (David)</h1>
 <h3 align="center"> I'm just some guy playing a nerd disguised as another nerd. If only you knew the amount of VMs, Docker Containers, resource groups, and instances I have built and destroyed to get where I am now...</h3>
 
 ---
 
-- 🔭 I’m currently working on Crypto Scrapers for content review
+- 🔭 I’m currently working on model data for ML and AI
 
 - 💬 I am always down to help out on any project or just have nerd conversations
 
-- 🌱 I’m currently learning **M E R N and ML/AI for fun**
+- 🌱 I’m currently learning **how to train ML/AI for fun**
 
 - 📫 How to reach me **mrzerobandwidth@gmail.com**
 
