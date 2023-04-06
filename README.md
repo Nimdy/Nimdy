@@ -108,7 +108,7 @@
 
 
 <a href="https://www.instagram.com/mrzerobandwidth" target="blank">
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" style="height:3rem">
 </a>
 
 <a href="https://www.youtube.com/realzerobandwidth" target="blank">
