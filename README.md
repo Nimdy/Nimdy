@@ -7,7 +7,7 @@
 
 - 💬 I am always down to help out on any project or just have nerd conversations
 
-- 🌱 I’m currently learning **how to train ML/AI for fun**
+- 🌱 I’m currently learning **how to center divs**
 
 - 📫 How to reach me **mrzerobandwidth@gmail.com**
 
