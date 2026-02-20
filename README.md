@@ -1,4 +1,4 @@
-<h1 align="center">Zero Bandwidth | David L. Eierdam</h1>
+<h1 align="center">Zero Bandwidth | David </h1>
 <h3 align="center">
 Applied AI • Distributed Systems • R&D Engineering • Privacy-First Architectures
 </h3>
