@@ -182,10 +182,6 @@ It is about making the system survive contact with reality.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimdy&theme=gotham&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimdy&theme=gotham&hide_border=true" alt="GitHub streak" />
 </p>
 
