@@ -27,14 +27,23 @@ If it doesn’t exist, I build it.
 
 ## 🚀 Current Projects
 
+### 🔹 [SoloNerds.com](https://solonerds.com)  
+Invite-only engineering triage and system validation platform for serious builders.
+
 ### 🔹 [SoulKernel.ai](https://soulkernel.ai)  
 Digital consciousness research lab exploring memory gating, RAG architectures, and AI kernel evolution.
+
+### 🔹 [JarvisOracle.com](https://jarvisoracle.com)  
+A fully local, self-evolving personal cognitive architecture.
 
 ### 🔹 [HackMe.ai](https://hackme.ai)  
 Hands-on AI/ML experimentation platform. Real models. Real training loops. No toy sandboxes.
 
-### 🔹 [SoloNerds.com](https://solonerds.com)  
-Invite-only engineering triage and system validation platform for serious builders.
+### 🔹 [Duafoo.com](https://duafoo.com)  
+Build combat AI, pressure test your strategies in Arena and Gauntlet, and climb a persistent multi-user ladder. Signup is invite-gated, and onboarding now starts in Arena.
+
+### 🔹 [StarlinkReport.com](https://starlinkreport.com)  
+Starlink Sat Operational Dashboard just for fun
 
 ---
 
