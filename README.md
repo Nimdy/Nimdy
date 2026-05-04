@@ -31,7 +31,7 @@ If it doesn’t exist, I build it.
 Invite-only engineering triage and system validation platform for serious builders.
 
 ### 🔹 [SoulKernel.ai](https://soulkernel.ai)  
-Digital consciousness research lab exploring memory gating, RAG architectures, and AI kernel evolution.
+Digital consciousness research lab exploring memory gating, RAG architectures, and AI kernel evolution (Theory Concept).
 
 ### 🔹 [JarvisOracle.com](https://jarvisoracle.com)  
 A fully local, self-evolving personal cognitive architecture.
