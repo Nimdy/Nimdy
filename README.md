@@ -175,18 +175,14 @@ It is about making the system survive contact with reality.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nimdy" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nimdy&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimdy&theme=gotham&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimdy&theme=gotham&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimdy&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 ---
