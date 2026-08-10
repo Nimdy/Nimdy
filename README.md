@@ -12,7 +12,6 @@ I build systems where the blueprint does not exist yet.
   <a href="https://solonerds.com">SoloNerds</a> •
   <a href="https://jarvisoracle.com">Jarvis Oracle</a> •
   <a href="https://hackme.ai">HackMe.ai</a> •
-  <a href="https://soulkernel.ai">SoulKernel.ai</a>
 </p>
 
 ---
