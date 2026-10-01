@@ -71,15 +71,6 @@ Core areas of interest:
 
 ---
 
-### [SoulKernel](https://soulkernel.ai)
-
-A research-oriented project exploring memory-gated AI architectures, cognitive kernels, retrieval systems, and experimental models of machine identity.
-
-SoulKernel is not about hype or pretending today’s models are conscious.  
-It is about asking what kind of architecture would be required for an AI system to maintain continuity, memory boundaries, self-modeling, and accountable behavior over time.
-
----
-
 ### [HackMe.ai](https://hackme.ai)
 
 A hands-on AI and machine learning experimentation platform.
@@ -96,13 +87,6 @@ Focus areas include:
 
 ---
 
-### [Duafoo](https://duafoo.com)
-
-A competitive AI strategy platform where users build combat agents, test them in Arena and Gauntlet modes, and climb a persistent multi-user ladder.
-
-The system is invite-gated and designed around experimentation, strategy pressure testing, and AI-versus-AI competition.
-
----
 
 ### [Starlink Report](https://starlinkreport.com)
 
